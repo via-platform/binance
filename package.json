@@ -1,6 +1,6 @@
 {
   "name": "binance",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "An adapter to connect Via to the Binance exchange.",
   "main": "./lib/main",
   "scripts": {
